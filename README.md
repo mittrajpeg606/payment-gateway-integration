@@ -20,7 +20,7 @@ import * as ReactBootStrap from "react-bootstrap";
 run this in terminal in your app folder 
 npm install react-bootstrap@next bootstrap@5.1.0
 
-put this in public->index.js
+put this in public->index.js 
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
