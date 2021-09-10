@@ -1,2 +1,6 @@
-# payment-gateway-integration
-Animal NGO website integrated with payment gateway RAZORPAY for The Sparks Foundation Internship
+#This is a React App 'Animal Ngo' integrated with payment gateway 'Razorpay' in test mode made for internship at The Sparks Foundation
+Technologies used:
+react.js
+react bootstrap
+Razorpay pages to integrate payment gateway
+netlify to deploy the website
