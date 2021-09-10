@@ -5,6 +5,9 @@ react bootstrap
 Razorpay pages to integrate payment gateway
 netlify to deploy the website
 
+deployed website link
+https://animal-ngo.netlify.app/
+
 to create react app
 npx create-react-app app_name
 cd app_name
